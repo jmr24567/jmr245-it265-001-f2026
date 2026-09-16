@@ -80,7 +80,7 @@
   - "Games made to unwind"
 
 -- **Sketches/Logo**:
-<img width="500" height="500" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/0de70ab9-e877-4a49-a73f-658f52a6c040" />
+<img width="200" height="200" alt="Untitled design (17)" src="https://github.com/user-attachments/assets/0de70ab9-e877-4a49-a73f-658f52a6c040" />
 
 ---
 
