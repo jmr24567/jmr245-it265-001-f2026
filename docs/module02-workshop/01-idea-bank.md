@@ -11,7 +11,7 @@ List possible concepts before choosing one. Mark each as **ready to pitch**, **u
 
 | Working title | Repeated player decision or action | Category | Reason or open question |
 | --- | --- | --- | --- |
-| | | | |
+|Cat Cafe Chaos |The player has to keep both customers and unpredictable cats happy | | |
 | | | | |
 | | | | |
 
